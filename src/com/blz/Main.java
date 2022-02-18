@@ -7,6 +7,6 @@ public class Main {
             System.out.println("To");
             System.out.println("Java");
             System.out.println(":)(smile)");
-            System.out.println(":)(do smile)");
+            System.out.println(":)(do the smile)");
     }
 }
